@@ -22,8 +22,7 @@
   <script src="https://code.iconify.design/iconify-icon/1.0.3/iconify-icon.min.js"></script>
 
   <!-- Custom styles for this template -->
-  <!-- <link href="css/resume.min.css" rel="stylesheet"> -->
-  <link href="css/resume.css" rel="stylesheet">
+  <link href="css/resume.min.css" rel="stylesheet">
   <link rel="stylesheet" href="css/academicons.min.css"/>
 
 </head>
@@ -91,8 +90,7 @@
 				<li><strong>Phone No.:</strong> +4794060361 (Norway)</li>
 				<li><strong>Address:</strong> Sit Sørnesvågen, H0223, Vågavegen 29, 6008, Ålesund, Norway.</li>
 			</ul></br></br>
-			<p class="lead mb-5">Welcome to my portfolio! I am a student of masters in Simulation and Visualization specializing in Machine Learning and expected to graduate in spring 2023. I am eager to showcase my skills and projects in this exciting and rapidly evolving field. With a strong foundation in Python, knowledge of JavaScript, HTML/CSS, and the basics of C++, I have honed my skills in developing and implementing various machine learning and deep learning academic projects. I have a passion for innovation and a drive to stay up-to-date with the latest advancements in this field. From my experience in Unity to my ability to collaborate with others, I am confident in my ability to bring value to any project or team.</p>
-			<p class="lead mb-5">I hope you enjoy exploring my portfolio page and learning more about my background, skills, and projects. If you have any questions or would like to connect, please don't hesitate to reach out. I am always open to new opportunities and look forward to the possibility of working with you in the future.</p>
+			<p class="lead mb-5">I am a student of Masters in Simulation and Visualization, expected to graduate in spring 2023. My objective is to obtain a challenging position as a machine learning engineer or developer in a well-reputed organization where I can utilize my Master's degree and skills in developing and implementing innovative machine learning solutions to drive business growth and success.</p>
 			<div class="social-icons">
 			<a href="https://www.linkedin.com/in/talal-qaiser/" target="_blank">
 				<i class="fab fa-linkedin-in"></i>
@@ -239,7 +237,7 @@
 		<div class="w-100">
 			<h2 class="bg-primary text-white">Publications</h2>
 
-			<!-- <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+			<div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
 				<ul style="list-style-type:none">
 					<li> 
 						<div class="resume-content">
@@ -249,7 +247,7 @@
 						</div>
 					</li>
 				</ul>         
-			</div> -->
+			</div>
 		</div>
 		</section>
 		<hr class="m-0">
