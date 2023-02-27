@@ -184,7 +184,8 @@ section.resume-section .resume-item .resume-date {
 }
 
 a {
-  color: #3891bd;
+  color: #92431c;
+  font-weight: bold;
 }
 
 a:hover, a:focus, a:active {
